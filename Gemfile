@@ -39,7 +39,7 @@ gem 'devise', '~> 3.1.0.rc2'
 gem 'paperclip', '~> 3.0'
 
 #amazon gem
-gem 'aws-sdk', '~>1.34.1'
+gem 'aws-sdk', '~>1.16.1'
 
 #masonry gem
 gem 'masonry-rails', '~>0.2.0'
